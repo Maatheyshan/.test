@@ -1,3 +1,5 @@
+from main_2 import condition
+
 x = ""
 y = 0
 
@@ -10,3 +12,5 @@ print(x," ",y)
 z = input("enter some number")
 
 print(z)
+
+condition()
